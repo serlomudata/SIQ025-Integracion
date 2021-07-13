@@ -1,0 +1,15 @@
+Package: Integracion
+Title: Integracion numerica
+Version: 0.0.1
+Authors@R: 
+    person(given = "Sergio",
+           family = "Lopez",
+           role = c("aut", "cre"),
+           email = "al399899@uji.es")
+Description: Este paquete realiza cuatro metodos de integracion:regla del rectangulo,
+             regla del punto medio, regla del trapecio, regla de Simpson.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1

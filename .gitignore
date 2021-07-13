@@ -1,0 +1,8 @@
+.Rproj.user
+Integracion.Rcheck/
+Integracion*.tar.gz
+Integracion*.tgz
+.RData
+.Rbuildignore
+project.Rproj
+.Rhistory
