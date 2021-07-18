@@ -16,6 +16,7 @@
 #' @examples
 #' regla_trapecio(1.5,3,function(x){return(x^2+x^3)})
 #' regla_trapecio(2.5,3.14,function(x){return(cos(x))})
+#' regla_trapecio(2,3.26,function(x){return(sin(x))})
 #'
 regla_trapecio=function(a,b,f){
   z=(b-a)*(f(a)+f(b))/2
